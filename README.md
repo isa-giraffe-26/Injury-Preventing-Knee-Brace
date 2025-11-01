@@ -5,6 +5,6 @@ Link to Instructable Project used as a Reference: https://www.instructables.com/
 Future Improvements: 
   -test different bamdwidth values to eliminate noise
   -file patent for methodology of testing valgus
-  -connect Wifi to Nano IoT 33 to allow athletes to see their performance on an app
-  -eventually collect data from athletes to be able to improve the algorithm of valgus detection
+  -use Bluetooth on Nano IoT 33 to allow athletes to see their performance on an app
+  -eventually enable Wifi to begin data collection from athletes, helping to improve the algorithm of valgus detection
 
